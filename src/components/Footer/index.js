@@ -5,7 +5,6 @@
  */
 
 import React from "react";
-import PropTypes from "prop-types";
 import "./Footer.css";
 
 function Footer(props) {
@@ -61,7 +60,5 @@ function Footer(props) {
     </div>
   );
 }
-
-Footer.propTypes = {};
 
 export default Footer;

@@ -5,7 +5,6 @@
  */
 
 import React from "react";
-import PropTypes from "prop-types";
 import "./Masthead.css";
 
 function Masthead(props) {
@@ -48,7 +47,5 @@ function Masthead(props) {
     </div>
   );
 }
-
-Masthead.propTypes = {};
 
 export default Masthead;

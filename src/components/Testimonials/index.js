@@ -5,7 +5,6 @@
  */
 
 import React from "react";
-import PropTypes from "prop-types";
 import "./Testimonials.css";
 import testimonials1 from "../../assets/img/testimonials-1.jpg";
 import testimonials2 from "../../assets/img/testimonials-2.jpg";
@@ -65,7 +64,5 @@ function Testimonials(props) {
     </div>
   );
 }
-
-Testimonials.propTypes = {};
 
 export default Testimonials;

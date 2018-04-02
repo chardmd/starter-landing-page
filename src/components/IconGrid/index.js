@@ -5,7 +5,6 @@
  */
 
 import React from "react";
-import PropTypes from "prop-types";
 import "./IconGrid.css";
 
 function IconGrid(props) {
@@ -54,7 +53,5 @@ function IconGrid(props) {
     </div>
   );
 }
-
-IconGrid.propTypes = {};
 
 export default IconGrid;

@@ -5,7 +5,6 @@
  */
 
 import React from "react";
-import PropTypes from "prop-types";
 import "./CallToAction.css";
 
 function CallToAction(props) {
@@ -45,7 +44,5 @@ function CallToAction(props) {
     </div>
   );
 }
-
-CallToAction.propTypes = {};
 
 export default CallToAction;

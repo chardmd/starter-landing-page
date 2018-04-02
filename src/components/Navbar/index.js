@@ -5,7 +5,6 @@
  */
 
 import React from "react";
-import PropTypes from "prop-types";
 import "./Navbar.css";
 
 function Navbar(props) {
@@ -24,7 +23,5 @@ function Navbar(props) {
     </div>
   );
 }
-
-Navbar.propTypes = {};
 
 export default Navbar;

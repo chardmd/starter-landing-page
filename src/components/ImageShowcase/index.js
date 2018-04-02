@@ -5,7 +5,6 @@
  */
 
 import React from "react";
-import PropTypes from "prop-types";
 import "./ImageShowcase.css";
 import imgShowcase1 from "../../assets/img/bg-showcase-1.jpg";
 import imgShowcase2 from "../../assets/img/bg-showcase-2.jpg";
@@ -70,7 +69,5 @@ function ImageShowcase(props) {
     </div>
   );
 }
-
-ImageShowcase.propTypes = {};
 
 export default ImageShowcase;
