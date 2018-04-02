@@ -7,3 +7,7 @@ Starter-Landing-Page is based on [Start Bootstrap](https://startbootstrap.com/te
 ## Preview
 
 [![Landing Page Preview](https://github.com/chardmd/starter-landing-page/blob/master/src/assets/img/preview.png?raw=true "Preview")](https://chardmd.github.io/starter-landing-page/)
+
+## License
+
+Code released under the MIT License

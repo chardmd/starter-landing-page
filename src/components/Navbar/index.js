@@ -12,12 +12,10 @@ function Navbar(props) {
     <div className="Navbar">
       <nav className="navbar navbar-light bg-light static-top">
         <div className="container">
-          <a className="navbar-brand" href="/">
+          <a className="navbar-brand" href="#">
             Company Name
           </a>
-          <a className="btn btn-primary" href="/">
-            Sign In
-          </a>
+          <button className="btn btn-primary">Sign In</button>
         </div>
       </nav>
     </div>
