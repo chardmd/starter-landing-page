@@ -7,6 +7,9 @@
 import React from "react";
 import PropTypes from "prop-types";
 import "./Testimonials.css";
+import testimonials1 from "../../assets/img/testimonials-1.jpg";
+import testimonials2 from "../../assets/img/testimonials-2.jpg";
+import testimonials3 from "../../assets/img/testimonials-3.jpg";
 
 function Testimonials(props) {
   return (
@@ -19,7 +22,7 @@ function Testimonials(props) {
               <div className="testimonial-item mx-auto mb-5 mb-lg-0">
                 <img
                   className="img-fluid rounded-circle mb-3"
-                  src="img/testimonials-1.jpg"
+                  src={testimonials1}
                   alt=""
                 />
                 <h5>Margaret E.</h5>
@@ -32,7 +35,7 @@ function Testimonials(props) {
               <div className="testimonial-item mx-auto mb-5 mb-lg-0">
                 <img
                   className="img-fluid rounded-circle mb-3"
-                  src="img/testimonials-2.jpg"
+                  src={testimonials2}
                   alt=""
                 />
                 <h5>Fred S.</h5>
@@ -46,7 +49,7 @@ function Testimonials(props) {
               <div className="testimonial-item mx-auto mb-5 mb-lg-0">
                 <img
                   className="img-fluid rounded-circle mb-3"
-                  src="img/testimonials-3.jpg"
+                  src={testimonials3}
                   alt=""
                 />
                 <h5>Sarah W.</h5>
