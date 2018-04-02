@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.007447cf.css",
   "main.css.map": "static/css/main.007447cf.css.map",
-  "main.js": "static/js/main.aca33146.js",
-  "main.js.map": "static/js/main.aca33146.js.map",
+  "main.js": "static/js/main.56104d4a.js",
+  "main.js.map": "static/js/main.56104d4a.js.map",
   "static/media/Simple-Line-Icons.eot?v=2.4.0": "static/media/Simple-Line-Icons.f33df365.eot",
   "static/media/Simple-Line-Icons.svg?v=2.4.0": "static/media/Simple-Line-Icons.2fe2efe6.svg",
   "static/media/Simple-Line-Icons.ttf?v=2.4.0": "static/media/Simple-Line-Icons.d2285965.ttf",
@@ -16,5 +16,8 @@
   "static/media/fontawesome-webfont.svg?v=4.7.0": "static/media/fontawesome-webfont.912ec66d.svg",
   "static/media/fontawesome-webfont.ttf?v=4.7.0": "static/media/fontawesome-webfont.b06871f2.ttf",
   "static/media/fontawesome-webfont.woff2?v=4.7.0": "static/media/fontawesome-webfont.af7ae505.woff2",
-  "static/media/fontawesome-webfont.woff?v=4.7.0": "static/media/fontawesome-webfont.fee66e71.woff"
+  "static/media/fontawesome-webfont.woff?v=4.7.0": "static/media/fontawesome-webfont.fee66e71.woff",
+  "static/media/testimonials-1.jpg": "static/media/testimonials-1.828e0935.jpg",
+  "static/media/testimonials-2.jpg": "static/media/testimonials-2.f3c0271e.jpg",
+  "static/media/testimonials-3.jpg": "static/media/testimonials-3.15393c5a.jpg"
 }
